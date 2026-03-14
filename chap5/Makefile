@@ -1,7 +1,7 @@
 CC = gcc
 CFLAGS = -Wall -g
 
-TARGET = linkedlist_queue
+TARGET = array_queue
 
 all: $(TARGET)
 
